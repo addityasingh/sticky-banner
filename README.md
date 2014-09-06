@@ -1,8 +1,6 @@
 ng-banner
 =========
 
-Sticky banner using Angular directive
-
 This is an angular directive to add a sticky banner at top of the page.
 
 Steps to use:
