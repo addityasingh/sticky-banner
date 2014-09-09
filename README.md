@@ -21,8 +21,6 @@ Steps to use:
 
 5. Add the <sticky-banner> element with the required attributes. 
 
-  ```<div ng-app="app">```
-	```<sticky-banner text="Awesome sticky banner 1" background="blue" size="30"></sticky-banner>```
-  ```</div>```
+  ```<div ng-app="app"><sticky-banner text="Awesome sticky banner 1" background="blue" size="30"></sticky-banner> </div>```
 
 The implementation can be checked here: http://jsbin.com/qexoduhajoyi/1/edit?html,output
